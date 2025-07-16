@@ -8,17 +8,37 @@ Each file in this repo is a Python solution to a specific problem I solved while
 
 ## 📁 Challenges Included
 
-- Text Wrap
-- String Formatting
-- Polar Coordinates
-- Introduction to Sets
-- Collections.Counter()
-- itertools.product()
+- Alphabet Rangoli
+- Arithmetic Operators
+- Capitalize
+- Collections.namedtuple
 - Designer Door Mat
-- The Minion Game
+- Find a string
+- Find the Runner-Up Score
+- Finding the percentage
+- Helloworld
+- Introduction to Sets
+- List Comprehensions
+- Lists
+- Loops
 - Merge the Tools
-- NamedTuple Challenge
-- ...and more coming soon!
+- Mutations
+- Nested Lists
+- Polar Coordinates
+- Print Function
+- Python If-Else
+- Python_Division
+- String Formatting
+- String Split and Join
+- String Validators
+- Text Alignment
+- Text Wrap
+- The Minion Game
+- What's Your Name
+- Write a function
+- collections.Counter
+- itertools.product
+- sWAP cASE
 
 
 
