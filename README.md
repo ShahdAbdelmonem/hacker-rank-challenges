@@ -39,6 +39,11 @@ Each file in this repo is a Python solution to a specific problem I solved while
 - collections.Counter
 - itertools.product
 - sWAP cASE
+- Numpy challenges:
+- arrays
+- shape and reshape
+- transpose and flatten
+- concatenate
 
 
 
